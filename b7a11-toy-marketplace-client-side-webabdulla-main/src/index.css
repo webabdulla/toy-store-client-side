@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h2{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h3{
+  font-family: 'Josefin Sans', sans-serif;
+
+}
